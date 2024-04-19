@@ -1,0 +1,1 @@
+window.RGlobalConfig={UDataItemNamePrefix:"Player",TipNumber:6,LevelNumber:6,MoreURL:"",NextURL:"",Comment_ID:"",PackageName:"",Products:[],NonProducts:[],ADS_BannerID:"",ADS_InterstitialID:"",ADS_CustomRectID:"",ADS_VideoID:"",ADS_AppID:"",ADSType:0,VADSType:0,Email_Theme:"",Email_Address:""};

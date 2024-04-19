@@ -1,0 +1,1 @@
+window.RConfigID={Item:1,UIRelationShip:2,BookTip:3,Level:4},window.RExecuteEnum={DataSave:0,UserInfoSave:1,BagResetItem:2,ResetLevelState:3,BagUpdateItem:3,ExeNum:4},window.RMAnswersTypeEnum=cc.Enum({Fix:0,Queue:1,Unlimited:2,NoOrder:3}),window.RMSaveTypeEnum=cc.Enum({Display:0,Index:1});

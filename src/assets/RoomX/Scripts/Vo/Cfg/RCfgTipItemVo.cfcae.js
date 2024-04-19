@@ -1,0 +1,1 @@
+window.RCfgTipItemVo=function(){this.ID=null,this.TipImg=null,this.Level=null},window.RCfgTipItemVo.prototype.GetKey=function(){return this.ID},window.RCfgTipItemVo.prototype.ReadValue=function(t){var i={};for(var n in t)this.hasOwnProperty(n)?this[n]=t[n]:i[n]=t[n].text;this.TipTxt=i};
